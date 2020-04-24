@@ -1,4 +1,4 @@
-## Assignment for Module #2: Calculate Maximum Word Frequency
+## Calculate Maximum Word Frequency
 
 The overall goal of the assignment is to write a Ruby class and work with
 attributes, methods, hashes, and arrays.
@@ -177,4 +177,4 @@ with a different test.txt.
 `-- solution.rb
 ```
 
-#### Updated: 2015-10-10a
+#### Updated: 2020-04-23
